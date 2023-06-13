@@ -26,6 +26,7 @@ void dfs(int cur, int par)
     }
 }
 
+// binary lifting
 int LCA(int a, int b)
 {
     if (a == b)
